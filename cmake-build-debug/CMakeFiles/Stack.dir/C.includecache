@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/New folder/DataStructure/Stack/INFIX_TO_POSTFIX.h
+
+D:/New folder/DataStructure/Stack/main.c
+stdio.h
+-
+stack.h
+D:/New folder/DataStructure/Stack/stack.h
+INFIX_TO_POSTFIX.h
+D:/New folder/DataStructure/Stack/INFIX_TO_POSTFIX.h
+
+D:/New folder/DataStructure/Stack/stack.h
+Math.h
+-
+
